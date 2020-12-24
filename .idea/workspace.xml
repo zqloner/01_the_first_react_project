@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d311e3a9-94cc-4e88-83f4-3b9587e93608" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/mgl-react-admin" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_COMMON_BRANCH" value="master" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1m619dfHr9v4dj8jhbcmMsayxC2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../02_the_second_react_boss_project" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d311e3a9-94cc-4e88-83f4-3b9587e93608" name="Default Changelist" comment="" />
+      <created>1608799077007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608799077007</updated>
+      <workItem from="1608799081525" duration="4616000" />
+    </task>
+    <task id="LOCAL-00001" summary="...">
+      <created>1608800115526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608800115526</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mgl-react-admin/node_modules/.staging/wait-for-expect-762e9589/lib/toBeInRangeMatcher.d.js" />
+        <option value="$PROJECT_DIR$/mgl-react-admin/node_modules/.staging/wait-for-expect-762e9589/lib/index.d.js" />
+        <option value="$PROJECT_DIR$/mgl-react-admin/node_modules/.staging/wait-for-expect-762e9589/lib/waitForExpect.spec.d.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/mgl-react-admin" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2384" y="283" key="CommitChangelistDialog2" timestamp="1608800114660">
+      <screen x="1920" y="168" width="1920" height="1040" />
+    </state>
+    <state x="2384" y="283" key="CommitChangelistDialog2/1920.168.1920.1040/0.0.1920.1040@1920.168.1920.1040" timestamp="1608800114660" />
+    <state x="2660" y="446" key="FileChooserDialogImpl" timestamp="1608799326408">
+      <screen x="1920" y="168" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="446" key="FileChooserDialogImpl/1920.168.1920.1040/0.0.1920.1040@1920.168.1920.1040" timestamp="1608799326408" />
+    <state x="2383" y="333" key="SettingsEditor" timestamp="1608804621417">
+      <screen x="1920" y="168" width="1920" height="1040" />
+    </state>
+    <state x="2383" y="333" key="SettingsEditor/1920.168.1920.1040/0.0.1920.1040@1920.168.1920.1040" timestamp="1608804621417" />
+    <state x="2472" y="424" key="Vcs.Push.Dialog.v2" timestamp="1608800128084">
+      <screen x="1920" y="168" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="424" key="Vcs.Push.Dialog.v2/1920.168.1920.1040/0.0.1920.1040@1920.168.1920.1040" timestamp="1608800128084" />
+    <state x="2674" y="606" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608804521680">
+      <screen x="1920" y="168" width="1920" height="1040" />
+    </state>
+    <state x="2674" y="606" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.168.1920.1040/0.0.1920.1040@1920.168.1920.1040" timestamp="1608804521680" />
+    <state x="2567" y="443" width="626" height="490" key="find.popup" timestamp="1608801923567">
+      <screen x="1920" y="168" width="1920" height="1040" />
+    </state>
+    <state x="2567" y="443" width="626" height="490" key="find.popup/1920.168.1920.1040/0.0.1920.1040@1920.168.1920.1040" timestamp="1608801923567" />
+    <state x="2510" y="490" key="git4idea.merge.GitPullDialog" timestamp="1608804419898">
+      <screen x="1920" y="168" width="1920" height="1040" />
+    </state>
+    <state x="2510" y="490" key="git4idea.merge.GitPullDialog/1920.168.1920.1040/0.0.1920.1040@1920.168.1920.1040" timestamp="1608804419898" />
+    <state x="2543" y="393" width="672" height="678" key="search.everywhere.popup" timestamp="1608800852744">
+      <screen x="1920" y="168" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="393" width="672" height="678" key="search.everywhere.popup/1920.168.1920.1040/0.0.1920.1040@1920.168.1920.1040" timestamp="1608800852744" />
+  </component>
+</project>
