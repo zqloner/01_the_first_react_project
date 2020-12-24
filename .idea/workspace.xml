@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d311e3a9-94cc-4e88-83f4-3b9587e93608" name="Default Changelist" comment="" />
+    <list default="true" id="d311e3a9-94cc-4e88-83f4-3b9587e93608" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -44,6 +47,7 @@
       <workItem from="1608799081525" duration="5502000" />
       <workItem from="1608805518327" duration="173000" />
       <workItem from="1608805717913" duration="131000" />
+      <workItem from="1608806181636" duration="287000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1608800115526</created>
@@ -68,16 +72,15 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/mgl-react-admin" />
-      <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="..." />
     <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2334" y="346" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608805689924">
+    <state x="2334" y="346" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608806272947">
       <screen x="1920" y="168" width="1920" height="1040" />
     </state>
-    <state x="2334" y="346" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.168.1920.1040/0.0.1920.1040@1920.168.1920.1040" timestamp="1608805689924" />
+    <state x="2334" y="346" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.168.1920.1040/0.0.1920.1040@1920.168.1920.1040" timestamp="1608806272947" />
     <state x="2384" y="283" key="CommitChangelistDialog2" timestamp="1608800114660">
       <screen x="1920" y="168" width="1920" height="1040" />
     </state>
@@ -86,18 +89,18 @@
       <screen x="1920" y="168" width="1920" height="1040" />
     </state>
     <state x="2660" y="446" key="FileChooserDialogImpl/1920.168.1920.1040/0.0.1920.1040@1920.168.1920.1040" timestamp="1608805815966" />
-    <state x="2383" y="333" key="SettingsEditor" timestamp="1608804621417">
+    <state x="2383" y="333" key="SettingsEditor" timestamp="1608806468214">
       <screen x="1920" y="168" width="1920" height="1040" />
     </state>
-    <state x="2383" y="333" key="SettingsEditor/1920.168.1920.1040/0.0.1920.1040@1920.168.1920.1040" timestamp="1608804621417" />
+    <state x="2383" y="333" key="SettingsEditor/1920.168.1920.1040/0.0.1920.1040@1920.168.1920.1040" timestamp="1608806468214" />
     <state x="2472" y="424" key="Vcs.Push.Dialog.v2" timestamp="1608800128084">
       <screen x="1920" y="168" width="1920" height="1040" />
     </state>
     <state x="2472" y="424" key="Vcs.Push.Dialog.v2/1920.168.1920.1040/0.0.1920.1040@1920.168.1920.1040" timestamp="1608800128084" />
-    <state x="2674" y="606" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608804521680">
+    <state x="2674" y="606" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608806495060">
       <screen x="1920" y="168" width="1920" height="1040" />
     </state>
-    <state x="2674" y="606" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.168.1920.1040/0.0.1920.1040@1920.168.1920.1040" timestamp="1608804521680" />
+    <state x="2674" y="606" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.168.1920.1040/0.0.1920.1040@1920.168.1920.1040" timestamp="1608806495060" />
     <state x="2567" y="443" width="626" height="490" key="find.popup" timestamp="1608801923567">
       <screen x="1920" y="168" width="1920" height="1040" />
     </state>
